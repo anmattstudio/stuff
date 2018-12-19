@@ -1,7 +1,7 @@
 {
     "name": "ANMATT Studio",
     "short_name": "anmattstudio",
-    "start_url": "/?m=1",
+    "start_url": "https://www.anmatt.studio/?m=1",
   "description": "Servicios especializados en la plataforma Blogger",
     "icons": [
         {
