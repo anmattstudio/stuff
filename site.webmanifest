@@ -1,14 +1,16 @@
 {
     "name": "ANMATT Studio",
     "short_name": "ANMATT Studio",
+    "start_url": "https://www.anmatt.studio/?m=1",
+  "description": "Servicios especializados en la plataforma Blogger",
     "icons": [
         {
-            "src": "https://2.bp.blogspot.com/-OzrYW9z_j90/WvpK7VO5eiI/AAAAAAAALcI/9Rgdb2A3UM4Xlsv7XlHtqET13H8hBdrCgCLcBGAs/s192/anmatt-logo-transparent.png",
+            "src": "https://3.bp.blogspot.com/-04rVkULeb-k/W-Pchic8HZI/AAAAAAAAOxI/KQGK_-u5cWkghQ1v-pnGuflMHuRgDh_KwCLcBGAs/s192/anmatt-negro.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://2.bp.blogspot.com/-OzrYW9z_j90/WvpK7VO5eiI/AAAAAAAALcI/9Rgdb2A3UM4Xlsv7XlHtqET13H8hBdrCgCLcBGAs/s256/anmatt-logo-transparent.png",
+            "src": "https://3.bp.blogspot.com/-04rVkULeb-k/W-Pchic8HZI/AAAAAAAAOxI/KQGK_-u5cWkghQ1v-pnGuflMHuRgDh_KwCLcBGAs/s256/anmatt-negro.png",
             "sizes": "256x256",
             "type": "image/png"
         }
